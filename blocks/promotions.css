@@ -40,17 +40,17 @@
 
 .pages {
 	display: -webkit-inline-box;
-	margin-top: 57px;
+	margin-top: 50px;
 	margin-left: 384px;
 }
 
 .pages__list {
-	margin-left: 36px;
+	margin-left: 23px;
 }
 
 .pages_item {
 	display: inline-block;
-	margin-right: -3px;
+	margin-right: -1px;
 }
 
 .pages_item:last-child {

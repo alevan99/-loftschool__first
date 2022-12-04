@@ -62,7 +62,7 @@ a:hover {
 }
 
 .wrapper__container {
-	background: url("../img/background1.png") no-repeat, url("../img/background2.png") bottom no-repeat; ;
+	background: url("../img/background1.png") center top / contain no-repeat, url("../img/background2.png") center bottom 165px / contain no-repeat; ;
 
 }
 

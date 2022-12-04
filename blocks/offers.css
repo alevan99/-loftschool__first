@@ -51,7 +51,7 @@
 	font-size: 24px;
 	font-weight: 700;
 	padding-top: 33px;
-	margin-left: 22px;
+	margin-left: 21px;
 }
 
 .offers__feature--text {
@@ -68,8 +68,8 @@
 
 .offers__feature--item {
 	display: -webkit-inline-box;
-	margin-top: 21px;
-	margin-left: 26px;
+	margin-top: 18px;
+	margin-left: 21px;
 }
 
 .offers__text {
@@ -79,13 +79,26 @@
 }
 
 .offers__feature--btn {
-	margin-top: 42px;
-	margin-left: 23px;
+	margin-top: 40px;
+	margin-left: 21px;
+}
+
+.btn--light{
+	width: 168px;
+	height: 55px;
+	border-radius: 35px;
+	background: #fff;
+	padding: 18px 25px;
+	box-sizing: border-box;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #F5170E;
+	border: 1px solid #F5170E;
 }
 
 .btn--light:hover {
-	background: #fff;
-	color: #F5170E;
+	background: #F5170E;
+	color: #fff;
 	border: 1px solid #F5170E;
 }
 

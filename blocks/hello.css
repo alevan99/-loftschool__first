@@ -1,5 +1,5 @@
 .hello {
-	margin-top: 135px;
+	margin-top: 120px;
 }
 
 .hello__tiltle {
@@ -8,10 +8,10 @@
 }
 
 .hello__subtiltle {
-	margin-top: 27px;
+	margin-top: 20px;
 	font-weight: 400;
 	font-size: 18px;
-	margin-bottom: 51px;
+	margin-bottom: 45px;
 }
 
 .btn {
@@ -19,6 +19,8 @@
 	height: 55px;
 	border-radius: 35px;
 	background: #F5170E;
-	padding: 18px 40px;
+	padding: 18px 35px;
 	box-sizing: border-box;
+	text-transform: uppercase;
+	font-weight: 700;
 }

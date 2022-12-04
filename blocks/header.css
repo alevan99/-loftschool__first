@@ -20,7 +20,7 @@
 }
 
 .menu___item {
-	margin-right: 42px;
+	margin-right: 51px;
 }
 
 .menu___item:last-child {
@@ -30,8 +30,6 @@
 .menu__link {
 	font-size: 14px;
 }
-
-
 
 .contact {
 	float: right;
@@ -43,9 +41,10 @@
 }
 
 .info {
+	margin-top: -5px;
 	text-align: right;
 }
 
 .contact__info {
-	font-size: 14px;
+	font-size: 13px;
 }
