@@ -19,7 +19,7 @@
 .socials__list {
 	float: right;
 	display: inline-block;
-	margin: 0px;
+	margin-top: 30px;
 }
 
 .contact__text--small {
