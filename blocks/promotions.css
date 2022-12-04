@@ -8,14 +8,14 @@
 }
 
 .promotions__item-one {
-	background: url("/img/plain.png");
+	background: url("../img/plain.png");
 	width: 557px;
 	height: 394px;
 	margin-right: 25px;
 }
 
 .promotions__item-two {
-	background: url("/img/surfer.png");
+	background: url("../img/surfer.png");
 	width: 557px;
 	height: 394px;
 }

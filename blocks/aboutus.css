@@ -1,5 +1,6 @@
 .aboutus__container {
 	position: relative	+ z-index;
+	
 }
 
 .aboutus__logo-first {
@@ -13,7 +14,7 @@
 .aboutus__logo-second {
 	margin-top: 248px;
 	margin-left: 354px;
-	background-image: url("/../img/mountains.png");
+	background-image: url("../img/mountains.png");
 	width: 785px;
 	height: 455px;
 	position: relative;

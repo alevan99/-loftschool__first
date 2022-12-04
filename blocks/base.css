@@ -61,10 +61,11 @@ a:hover {
 	position: relative;
 }
 
-.wrapper__container--main {
-	background-image: url("/img/background1.png");
-	background-repeat: no-repeat;
+.wrapper__container {
+	background: url("../img/background1.png") no-repeat, url("../img/background2.png") bottom no-repeat; ;
+
 }
+
 
 .container {
 	margin: 0 auto;

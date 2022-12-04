@@ -2,6 +2,11 @@
 	margin-top: 102px;
 }
 
+.footer__container {
+	border-top: solid #07222b 4px;
+
+}
+
 .logo__nav {
 	margin-bottom: 65px;
 	vertical-align: bottom;
