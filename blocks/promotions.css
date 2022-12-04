@@ -58,9 +58,9 @@
 }
 
 .pages_item-btn {
-	background: #001821;
+	/* background: #001821; */
 	color: #fff;
-	border: 1px solid #001821;
+	/* border: 1px solid #001821; */
 	width: 32px;
 	height: 32px;
 	border-radius: 50%;
