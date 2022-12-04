@@ -1,0 +1,51 @@
+
+.header {
+	height: 75px;
+}
+
+.logo {
+	margin-top: 29px;
+	float: left;
+	margin-right: 79px;
+}
+
+.logo__img {
+	width: 85px;
+	height: 36px;
+}
+
+.menu {
+	margin-top: 42px;
+	
+}
+
+.menu___item {
+	margin-right: 42px;
+}
+
+.menu___item:last-child {
+	margin-right: 0px;
+}
+
+.menu__link {
+	font-size: 14px;
+}
+
+
+
+.contact {
+	float: right;
+	margin-top: 27px;
+}
+
+.contact__phone {
+	font-size: 26px;
+}
+
+.info {
+	text-align: right;
+}
+
+.contact__info {
+	font-size: 14px;
+}

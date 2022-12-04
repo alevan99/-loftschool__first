@@ -1,0 +1,79 @@
+.promotions {
+	margin-top: 127px;
+}
+
+.promotions__list {
+	display: -webkit-inline-box;
+	margin-top: 51px;
+}
+
+.promotions__item-one {
+	background: url("/img/plain.png");
+	width: 557px;
+	height: 394px;
+	margin-right: 25px;
+}
+
+.promotions__item-two {
+	background: url("/img/surfer.png");
+	width: 557px;
+	height: 394px;
+}
+
+.promotions__text--tiltle {
+	margin-top: 252px;
+	margin-left: 30px;
+	font-size: 14px;
+}
+
+.promotions__tiltle {
+	margin-top: 12px;
+	margin-left: 31px;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.promotions__text {
+	margin-top: 4px;
+	margin-left: 31px;
+}
+
+.pages {
+	display: -webkit-inline-box;
+	margin-top: 57px;
+	margin-left: 384px;
+}
+
+.pages__list {
+	margin-left: 36px;
+}
+
+.pages_item {
+	display: inline-block;
+	margin-right: -3px;
+}
+
+.pages_item:last-child {
+	margin-right: 0px;
+}
+
+.pages_item-btn {
+	background: #001821;
+	color: #fff;
+	border: 1px solid #001821;
+	width: 32px;
+	height: 32px;
+	border-radius: 50%;
+	padding: 4px 10px;
+	font-weight: 700;
+}
+
+.pages_item-btn:hover {
+	background: #fff;
+	color: #F5170E;
+	border: 1px solid #F5170E;
+	width: 32px;
+	height: 32px;
+	border-radius: 50%;
+	padding: 4px 10px;
+}

@@ -1,0 +1,24 @@
+.hello {
+	margin-top: 135px;
+}
+
+.hello__tiltle {
+	font-size: 72px;
+	font-weight: 700;
+}
+
+.hello__subtiltle {
+	margin-top: 27px;
+	font-weight: 400;
+	font-size: 18px;
+	margin-bottom: 51px;
+}
+
+.btn {
+	width: 168px;
+	height: 55px;
+	border-radius: 35px;
+	background: #F5170E;
+	padding: 18px 40px;
+	box-sizing: border-box;
+}

@@ -1,0 +1,37 @@
+.aboutus__container {
+	position: relative	+ z-index;
+}
+
+.aboutus__logo-first {
+	background-image: url("/img/trees.png");
+	width: 490px;
+	height: 505px;
+	position: absolute;
+	top: 73%;
+}
+
+.aboutus__logo-second {
+	margin-top: 248px;
+	margin-left: 354px;
+	background-image: url("/img/mountains.png");
+	width: 785px;
+	height: 455px;
+	position: relative;
+}
+
+.tiltle--color-black {
+	color: black;
+	padding-top: 70px;
+	padding-left: 81px;
+}
+
+.aboutus__content {
+	margin-top: 37px;
+	padding-left: 81px;
+	margin-bottom: 61px;
+	color: #060606;
+}
+
+.aboutus__btn {
+	margin-left: 81px;
+}
