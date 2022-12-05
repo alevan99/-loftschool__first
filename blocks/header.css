@@ -19,12 +19,16 @@
 	
 }
 
-.menu___item {
+.menu__item {
 	margin-right: 51px;
 }
 
-.menu___item:last-child {
+.menu__item:last-child {
 	margin-right: 0px;
+}
+
+.menu__item--active .menu__link {
+	color: #da0100;
 }
 
 .menu__link {

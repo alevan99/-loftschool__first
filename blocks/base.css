@@ -74,6 +74,6 @@ a:hover {
 	max-width: 1141px;
 }
 
-.logo, .menu___item, .menu, .contact {
+.logo, .menu__item, .menu, .contact {
 	display: inline-block;
 }
