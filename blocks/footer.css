@@ -27,6 +27,14 @@
 	float: right;
 }
 
+.socials__logo {
+	opacity: 0.5;
+}
+
+.socials__logo:hover {
+	opacity: 1.0;
+}
+
 .contact__text--small {
 	color: #9A9A9A;
 	font-size: 11px;

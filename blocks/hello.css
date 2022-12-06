@@ -24,3 +24,7 @@
 	text-transform: uppercase;
 	font-weight: 700;
 }
+
+.btn:hover {
+	background: #DA0100;
+}

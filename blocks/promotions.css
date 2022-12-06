@@ -40,7 +40,7 @@
 
 .pages {
 	display: -webkit-inline-box;
-	margin-top: 50px;
+	margin-top: 48px;
 	margin-left: 384px;
 }
 
@@ -50,7 +50,7 @@
 
 .pages_item {
 	display: inline-block;
-	margin-right: -1px;
+	margin-right: -2px;
 }
 
 .pages_item:last-child {
@@ -58,22 +58,21 @@
 }
 
 .pages_item-btn {
-	/* background: #001821; */
 	color: #fff;
-	/* border: 1px solid #001821; */
 	width: 32px;
 	height: 32px;
 	border-radius: 50%;
-	padding: 4px 10px;
+	/* padding: 4px 10px; */
+	padding: 3.5px 0px;
+	display: block;
+	text-align: center;
 	font-weight: 700;
+	border: 1px solid	transparent;
 }
 
 .pages_item-btn:hover {
 	background: #fff;
 	color: #F5170E;
-	border: 1px solid #F5170E;
-	width: 32px;
-	height: 32px;
-	border-radius: 50%;
-	padding: 4px 10px;
+	/* border-color: #F5170E; */
+	border
 }
