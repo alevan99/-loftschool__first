@@ -1,0 +1,26 @@
+.inner-footer {
+	height: 132px;
+
+}
+
+.inner-footer__container {
+	display: flex;
+	justify-content: space-between; 
+	align-items: center;
+	padding-top: 48px;
+}
+
+.logo--footer {
+	height: 42px;
+	width: 98px;
+	margin-top: -60px;
+}
+
+.menu__list--footer {
+	margin-top: -46px;
+	margin-left: -11px;
+}
+
+.socials__list--footer {
+	margin-top: -40px;
+}

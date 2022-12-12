@@ -2,6 +2,11 @@
 	margin-top: 120px;
 }
 
+.hello__container {
+	display: flex;
+	flex-direction: column;
+}
+
 .hello__tiltle {
 	font-size: 72px;
 	font-weight: 700;
@@ -11,10 +16,11 @@
 	margin-top: 20px;
 	font-weight: 400;
 	font-size: 18px;
-	margin-bottom: 45px;
+	margin-bottom: 30px;
 }
 
-.btn {
+.button {
+	font-size: 14px;
 	width: 168px;
 	height: 55px;
 	border-radius: 35px;
@@ -25,6 +31,6 @@
 	font-weight: 700;
 }
 
-.btn:hover {
+.button:hover {
 	background: #DA0100;
 }

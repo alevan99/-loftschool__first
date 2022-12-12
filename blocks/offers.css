@@ -1,10 +1,9 @@
 .offers {
-	margin-top: 264px;
+	margin-top: 244px;
 }
 
 .tiltles {
-	display: inline;
-	position: relative;
+	display: flex;
 }
 
 .tiltle {
@@ -16,18 +15,19 @@
 	background-repeat: no-repeat;
 	width: 21px;
 	height: 28px;
-	margin-left: 50px;
-	position: absolute;
-	left: 230px;
-	top: 14px;
+	margin-top: 15px;
+	margin-left: 10px;
 }
 
 .offers__list {
 	margin-top: 51px;
+	display: flex;
+	justify-content: space-between;
 }
 
 .offers__item {
-	display: inline-block;
+	display: flex;
+	flex-direction: column;
 	margin-right: 23px;
 }
 
@@ -50,14 +50,17 @@
 	color: #000000;
 	font-size: 24px;
 	font-weight: 700;
-	padding-top: 33px;
+	margin-top: 33px;
 	margin-left: 21px;
 }
 
 .offers__feature--text {
 	color: #666666;
-	font-size: 18px;
-	margin-right: 2px;
+	margin-right: 35px;
+}
+
+.offers__feature--text:last-child {
+	margin-right: 0px;
 }
 
 .offers__feature--icon {
@@ -67,7 +70,7 @@
 }
 
 .offers__feature--item {
-	display: -webkit-inline-box;
+	display: flex;
 	margin-top: 18px;
 	margin-left: 21px;
 }
@@ -75,20 +78,20 @@
 .offers__text {
 	color: #666666;
 	font-size: 14px;
-	margin-top: 2px;
+	margin-top: 7px;
 }
 
-.offers__feature--btn {
-	margin-top: 40px;
-	margin-left: 21px;
+.offers__feature--button {
+	margin-top: 44px;
+	margin-left: 25px;
 }
 
-.btn--light{
+.button--light{
 	width: 168px;
 	height: 55px;
 	border-radius: 35px;
 	background: #fff;
-	padding: 18px 25px;
+	padding: 18px 28px;
 	box-sizing: border-box;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -96,7 +99,7 @@
 	border: 1px solid #F5170E;
 }
 
-.btn--light:hover {
+.button--light:hover {
 	background: #F5170E;
 	color: #fff;
 	border: 1px solid #F5170E;

@@ -3,9 +3,18 @@
 	height: 75px;
 }
 
+.header__container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.logo__nav {
+	display: flex;
+}
+
 .logo {
 	margin-top: 29px;
-	float: left;
 	margin-right: 79px;
 }
 
@@ -15,12 +24,15 @@
 }
 
 .menu {
-	margin-top: 42px;
-	
+	margin-top: 30px;
+}
+
+.menu__list {
+	display: flex;
 }
 
 .menu__item {
-	margin-right: 51px;
+	margin-right: 55px;
 }
 
 .menu__item:last-child {
@@ -36,8 +48,9 @@
 }
 
 .contact {
-	float: right;
 	margin-top: 27px;
+	display: flex;
+	flex-direction: column;
 }
 
 .contact__phone {

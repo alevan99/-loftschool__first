@@ -1,0 +1,78 @@
+.services {
+	background-color: white;
+	padding-top: 75px;
+	padding-bottom: 85px;
+}
+
+.service {
+	display: flex;
+	justify-content: space-between;
+	padding: 24px 0px;
+}
+
+.service:hover {
+	background-color: #F4F5F5;
+}
+
+.services__list {
+	margin-bottom: -5px;
+}
+
+.service:hover .services__button {
+	background-color: #F5170E;
+	color: white;
+}
+
+.services__logo--one {
+	background: url("../img/waterfall.png");
+	width: 460px;
+	height: 333px;
+}
+
+.services__logo--second {
+	background: url("../img/monkeys.png");
+	width: 460px;
+	height: 333px;
+}
+
+.services__content--tiltle {
+	margin-top: 10px;
+	color: black;
+	font-size: 36px;
+	font-weight: 700;
+}
+
+.services__content--text {
+	color: #303030;
+	font-size: 16px;
+	margin-top: 28px;
+	margin-bottom: 35px;
+	line-height: 27px;
+}
+
+.services__button {
+	padding: 16px 35px;
+}
+
+.pages-services {
+	margin-left: 15px;
+	display: flex;
+}
+
+.page-services {
+	color: black;
+}
+
+.pages__item--button-services {
+	color: black;
+	margin-top: -2px;
+}
+
+.pages__item--button-services:last-child {
+	margin-left: 0px;
+}
+
+.pages__item--button-services:hover {
+	background-color: #F5170E;
+	color: white;
+} 

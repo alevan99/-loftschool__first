@@ -3,7 +3,7 @@
 }
 
 .promotions__list {
-	display: -webkit-inline-box;
+	display: flex;
 	margin-top: 51px;
 }
 
@@ -39,30 +39,29 @@
 }
 
 .pages {
-	display: -webkit-inline-box;
-	margin-top: 48px;
+	display: flex;
+	margin-top: 50px;
 	margin-left: 384px;
 }
 
 .pages__list {
 	margin-left: 23px;
+	display: flex;
 }
 
-.pages_item {
-	display: inline-block;
-	margin-right: -2px;
+.pages__item {
+	margin-right: 2px;
 }
 
-.pages_item:last-child {
+.pages__item:last-child {
 	margin-right: 0px;
 }
 
-.pages_item-btn {
+.pages__item--button {
 	color: #fff;
 	width: 32px;
 	height: 32px;
 	border-radius: 50%;
-	/* padding: 4px 10px; */
 	padding: 3.5px 0px;
 	display: block;
 	text-align: center;
@@ -70,8 +69,7 @@
 	border: 1px solid	transparent;
 }
 
-.pages_item-btn:hover {
+.pages__item--button:hover {
 	background: #fff;
 	color: #F5170E;
-	/* border-color: #F5170E; */
 }
