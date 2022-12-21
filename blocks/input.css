@@ -109,4 +109,5 @@
 
 .reviwes--button-gray:hover {
 	background: #2B2B2B;
+	transition: .3s;
 }

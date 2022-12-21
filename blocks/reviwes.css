@@ -44,6 +44,7 @@
 .name__link:hover {
 	color: #2E77A4;
 	text-decoration-line: underline;
+	transition: .3s;
 }
 
 .vk__logo {

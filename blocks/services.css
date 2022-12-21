@@ -12,6 +12,7 @@
 
 .service:hover {
 	background-color: #F4F5F5;
+	transition: .3s;
 }
 
 .services__list {
@@ -21,6 +22,7 @@
 .service:hover .services__button {
 	background-color: #F5170E;
 	color: white;
+	transition: .3s;
 }
 
 .services__logo--one {
@@ -75,4 +77,5 @@
 .pages__item--button-services:hover {
 	background-color: #F5170E;
 	color: white;
+	transition: .3s;
 } 

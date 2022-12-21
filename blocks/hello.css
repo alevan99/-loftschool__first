@@ -33,4 +33,5 @@
 
 .button:hover {
 	background: #DA0100;
+	transition: .3s;
 }

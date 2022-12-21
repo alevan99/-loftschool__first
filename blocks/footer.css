@@ -42,6 +42,7 @@
 
 .socials__logo:hover {
 	opacity: 1.0;
+	transition: .3s;
 }
 
 .contact__text--small {
