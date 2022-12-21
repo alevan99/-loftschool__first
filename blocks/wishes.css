@@ -1,0 +1,24 @@
+.wishes {
+	height: 363px;
+	background: url("../img/reviwes/bg__reviwes.png") center center / cover no-repeat;
+}
+
+.wishes__container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.wishes__text {
+	color: white;
+	font-size: 48px;
+	font-weight: 700;
+	margin-right: 28px;
+	margin-left: -38px;
+}
+
+.wishes__logo {
+	width: 487px;
+	height: 341px;
+	margin-bottom: -22px;
+}

@@ -80,3 +80,7 @@ button {
 .logo, .menu__item, .menu, .contact {
 	display: flex;
 }
+
+textarea {
+	resize: none;
+}
