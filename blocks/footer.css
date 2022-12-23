@@ -56,6 +56,23 @@
 	margin-left: 60px;
 }
 
+.socials__logo-tg {
+	width: 36px; height: 36px;
+	background: url("../img/css_sprites.png") -10px -10px;
+}
+.socials__logo-vk {
+	width: 36px; height: 36px;
+	background: url("../img/css_sprites.png") -66px -10px;
+}
+.socials__logo-f {
+	width: 36px; height: 36px;
+	background: url("../img/css_sprites.png") -122px -10px;
+}
+.socials__logo-in {
+	width: 36px; height: 36px;
+	background: url("../img/css_sprites.png") -178px -10px;
+}
+
 
 
 
