@@ -39,12 +39,13 @@
 	margin-left: 25px;
 	margin-top: 10px;
 	margin-right: 8px;
+	transition: .4s;
 }
 
 .name__link:hover {
 	color: #2E77A4;
 	text-decoration-line: underline;
-	transition: .3s;
+	transition: .4s;
 }
 
 .vk__logo {

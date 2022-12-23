@@ -38,11 +38,12 @@
 
 .socials__logo {
 	opacity: 0.5;
+	transition: .4s;
 }
 
 .socials__logo:hover {
 	opacity: 1.0;
-	transition: .3s;
+	transition: .4s;
 }
 
 .contact__text--small {

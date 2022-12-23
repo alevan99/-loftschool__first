@@ -67,10 +67,11 @@
 	text-align: center;
 	font-weight: 700;
 	border: 1px solid	transparent;
+	transition: .4s;
 }
 
 .pages__item--button:hover {
 	background: #fff;
 	color: #F5170E;
-	transition: .3s;
+	transition: .4s;
 }

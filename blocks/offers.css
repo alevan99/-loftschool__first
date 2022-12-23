@@ -84,6 +84,7 @@
 .offers__feature--button {
 	margin-top: 44px;
 	margin-left: 25px;
+	transition: .4s;
 }
 
 .button--light{
@@ -97,13 +98,14 @@
 	font-weight: 700;
 	color: #F5170E;
 	border: 1px solid #F5170E;
+	transition: .4s;
 }
 
 .button--light:hover {
 	background: #F5170E;
 	color: #fff;
 	border: 1px solid #F5170E;
-	transition: .3s;
+	transition: .4s;
 }
 
 
